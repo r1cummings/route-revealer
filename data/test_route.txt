@@ -1,0 +1,3 @@
+Departure Street,D City,D State,D Zip,Equipment Street,E City,E State,E Zip,WorkSite Street,W City,W State,W Zip
+869 Burlington Street,Fillmore,CA,93015,389 N Brent Street, Ventura, CA, 93003, 763 Burlington St, Fillmore, CA, 93015
+7140 Winding Way,Fair Oaks, CA, 95628, 557 Mockingbird Lane, Fillmore, CA, 93015, 6675 Morse Ave, North Hollywood, CA, 91606
